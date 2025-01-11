@@ -2,7 +2,7 @@
 Chat App backend made using Typescript & NodeJS.
 
 ## Repos
-- [Chat App - Frontend](https://github.com/Supertigerr/chat-client-solidjs)
+- [Chat App - Frontend](https://github.com/glitchedflower/nerimity)
 - Chat App - Backend (You Are Here)
 
 
